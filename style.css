@@ -1,0 +1,86 @@
+#about img{
+    border-radius: 50%;
+}
+
+#about{
+    background-image:url(data:image/jpeg;base64,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);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#education{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-Kj57VhToCRxMc1lJ-O2OaQ2AckwQVE5l9FvYODlqCcQoraGoUnEb-KvEQ&s);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#location{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdA8jrP1XngvESEk8clAbIeMJeSG6o0Tx-ITTJ72vDouRxt430ErC55WCyQ&s);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#inspiration{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWXezCPkNrO0ROOxFpcjDt196rcC_IJotEg&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#skills{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtu_VYKUSDwBnLdyEcST0nkehEph4yOOdfg4na65QjwNNiSWjdER8Gc3QIIg&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#skll{
+    animation-name: skill;
+    animation-duration:10s;
+    
+}
+@keyframes skill{
+    0%{color: blue;}
+    20%{color: brown;}
+    40%{color: darkblue;}
+    60%{color:crimson;}
+    80%{color:aqua;}
+    100%{color:blueviolet;}
+}
+#img3{
+    position: relative;
+    top: -25px;
+}
+#location1{
+    position: relative;
+    top: -25px;
+}
+
+#heading{
+    font-color: yellow;
+}
+mark{
+  background-color: red;
+  color: blue;
+}
+#heading{
+    font-family: serif;
+    color: brown;
+}
+#edu{
+    animation-name: educatio;
+    animation-duration:40s;
+}
+@keyframes educatio{
+    0%{color: blue;}
+    10%{color: brown;}
+    30%{color: darkblue;}
+    40%{color:crimson;}
+    50%{color:aqua;}
+    60%{color:blueviolet;}
+     70%{color: brown;}
+    80%{color: darkblue;}
+    90%{color:crimson;}
+    100%{color:aqua;}
+    150%{color:blueviolet;}
+}
+    
